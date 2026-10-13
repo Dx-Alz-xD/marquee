@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+data/rooms.json
+data/rooms.json.tmp
+data/catalog.tmdb.json
+uploads
+bench-results/*.raw.json
+.cloudflared
+.claude/
